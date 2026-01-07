@@ -7,8 +7,8 @@
         <mxCell id="qkO_Cq1EtWc2ikSxrigI-1" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="80" y="90" width="220" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="qkO_Cq1EtWc2ikSxrigI-2" value="位置监测与触发" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="140" y="110" width="100" height="30" as="geometry" />
+        <mxCell id="qkO_Cq1EtWc2ikSxrigI-2" value="位置监测与触发" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="140" y="110" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
