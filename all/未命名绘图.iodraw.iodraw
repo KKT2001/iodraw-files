@@ -41,7 +41,7 @@
           <mxGeometry x="385" y="40" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qkO_Cq1EtWc2ikSxrigI-17" value="发射端控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="85" width="70" height="25" as="geometry" />
+          <mxGeometry x="330" y="85" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="qkO_Cq1EtWc2ikSxrigI-18" value="接收端同步采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="455" y="85" width="90" height="25" as="geometry" />
