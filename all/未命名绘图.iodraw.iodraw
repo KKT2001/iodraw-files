@@ -47,7 +47,7 @@
           <mxGeometry x="340" y="265" width="120" height="25" as="geometry" />
         </mxCell>
         <mxCell id="qkO_Cq1EtWc2ikSxrigI-20" value="74HC4066选组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="145" width="90" height="30" as="geometry" />
+          <mxGeometry x="340" y="145" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qkO_Cq1EtWc2ikSxrigI-21" value="74HC4051选管" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="185" width="110" height="30" as="geometry" />
