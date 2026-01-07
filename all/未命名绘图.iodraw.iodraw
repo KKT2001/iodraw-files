@@ -44,7 +44,7 @@
           <mxGeometry x="360" y="110" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="qkO_Cq1EtWc2ikSxrigI-18" value="接收端同步采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="353" y="265" width="90" height="25" as="geometry" />
+          <mxGeometry x="353" y="265" width="107" height="25" as="geometry" />
         </mxCell>
         <mxCell id="qkO_Cq1EtWc2ikSxrigI-20" value="74HC4066选组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="145" width="90" height="30" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="550" y="115" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qkO_Cq1EtWc2ikSxrigI-30" value="时空数据绑定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="155" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="155" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
