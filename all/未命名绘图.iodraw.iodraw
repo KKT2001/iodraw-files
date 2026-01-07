@@ -56,7 +56,7 @@
           <mxGeometry x="340" y="225" width="108" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qkO_Cq1EtWc2ikSxrigI-23" value="74HC4051选通通道" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="338" y="295" width="120" height="30" as="geometry" />
+          <mxGeometry x="334" y="300" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qkO_Cq1EtWc2ikSxrigI-24" value="ADVC转换光束强度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="335" width="120" height="30" as="geometry" />
