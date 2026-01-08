@@ -62,7 +62,7 @@
           <mxGeometry x="338" y="340" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qkO_Cq1EtWc2ikSxrigI-25" value="存储强度数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="353" y="375" width="90" height="30" as="geometry" />
+          <mxGeometry x="349" y="380" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qkO_Cq1EtWc2ikSxrigI-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="500" y="80" width="180" height="285" as="geometry" />
