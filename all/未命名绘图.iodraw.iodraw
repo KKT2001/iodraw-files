@@ -53,7 +53,7 @@
           <mxGeometry x="340" y="185" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qkO_Cq1EtWc2ikSxrigI-22" value="发射38KHZ调制光" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="225" width="108" height="30" as="geometry" />
+          <mxGeometry x="341" y="225" width="108" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qkO_Cq1EtWc2ikSxrigI-23" value="74HC4051选通通道" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334" y="300" width="120" height="30" as="geometry" />
@@ -113,6 +113,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="240" as="sourcePoint" />
             <mxPoint x="460" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qkO_Cq1EtWc2ikSxrigI-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="320" as="sourcePoint" />
+            <mxPoint x="460" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
